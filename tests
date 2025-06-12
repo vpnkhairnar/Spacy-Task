@@ -1,8 +1,7 @@
 1.Test case : Location Extraction
-Input : Find properties in Baner and Wakad.
-Expected Output : Baner and Wakad
+Input : Find properties in Moshi and Kharadi.
+Expected Output : Moshi and Kharadi
 
 2.Test Case : No Location present
-Input : we love programming and machine learning
-output : no location found
-
+Input : Hello World
+output : location Not found
