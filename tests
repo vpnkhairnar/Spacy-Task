@@ -1,1 +1,8 @@
+1.Test case : Location Extraction
+Input : Find properties in Baner and Wakad.
+Expected Output : Baner and Wakad
+
+2.Test Case : No Location present
+Input : we love programming and machine learning
+output : no location found
 
