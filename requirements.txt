@@ -1,2 +1,5 @@
+# installation version of spacy -
 spacy>=3.0.0
+
+# installation version of Pytest -
 pytest>=6.0.0
